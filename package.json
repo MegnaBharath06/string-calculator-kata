@@ -1,0 +1,26 @@
+{
+  "name": "string-calculator-kata",
+  "version": "1.0.0",
+  "description": "TDD Kata - String Calculator in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MegnaBharath06/string-calculator-kata.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MegnaBharath06/string-calculator-kata/issues"
+  },
+  "homepage": "https://github.com/MegnaBharath06/string-calculator-kata#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "node": "^18.20.7"
+  }
+}
